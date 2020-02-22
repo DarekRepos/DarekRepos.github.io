@@ -1,4 +1,3 @@
-/*TODO: Hide menu after click second time*/
 (function (window, undefined) {
     'use strict';
     // responsive pinnable sidemenu component
@@ -30,7 +29,7 @@
             htmlSideMenu.classList.toggle('pinned');
             htmlSideMenuPinTriggerImage.classList.toggle('fa-rotate-90');
             if (htmlSideMenu.classList.contains('pinned') !== true) {
-                htmlSideMenu.classList.remove('open');
+                htmlSideMenu.classList.remove('pinned');////-<
             }
             menuPinStateChanged(htmlSideMenu, htmlSideMenu.classList.contains('pinned'));
         };
@@ -74,14 +73,10 @@ var documentReady = function (fn) {
 };
 
 documentReady(function() {
-    var sample = new SideMenu(document.querySelector('.sidebar-menu'))
-    sample.htmlElement.addEventListener('menuPinStateChanged', function(e) {
-        document.querySelector('#events').innerHTML += 'menuPinStateChanged , menu pinned? => '
-            + e.detail.pinned + '<br>';
+    var sidebarMenu = new SideMenu(document.querySelector('.sidebar-menu'))
+    sidebarMenu.htmlElement.addEventListener('menuPinStateChanged', function(e) {
     }, false);
-    sample.htmlElement.addEventListener('menuStateChanged', function(e) {
-        document.querySelector('#events').innerHTML += 'menuStateChanged , menu open? => '
-            + e.detail.open + '<br>';
+    sidebarMenu.htmlElement.addEventListener('menuStateChanged', function(e) {
     }, false);
 });
 
