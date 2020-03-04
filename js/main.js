@@ -1,8 +1,8 @@
-(function (window, undefined) {
+(function (window) {
     'use strict';
     // responsive pinnable sidemenu component
-    var sideMenu = function (el) {
-        var htmlSideMenu = el, htmlSideMenuPinTrigger = {}, htmlSideMenuPinTriggerImage = {};
+    window.SideMenu = function (el) {
+        let htmlSideMenu = el, htmlSideMenuPinTrigger = {}, htmlSideMenuPinTriggerImage = {};
         var init = function () {
             htmlSideMenuPinTrigger = el.querySelector('.sidebar-menu-pin-trigger');
             htmlSideMenuPinTriggerImage = htmlSideMenuPinTrigger.querySelector('i.fa');
@@ -21,11 +21,11 @@
             window.addEventListener("resize", checkIfNeedToCloseMenu, false);
             checkIfNeedToCloseMenu();
         };
-        var toggleMenuState = function () {
+        const toggleMenuState = function () {
             htmlSideMenu.classList.toggle('open');
             menuStateChanged(htmlSideMenu, htmlSideMenu.classList.contains('open'));
         };
-        var toggleMenuPinState = function () {
+        const toggleMenuPinState = function () {
             htmlSideMenu.classList.toggle('pinned');
             htmlSideMenuPinTriggerImage.classList.toggle('fa-rotate-90');
             if (htmlSideMenu.classList.contains('pinned') !== true) {
@@ -33,8 +33,8 @@
             }
             menuPinStateChanged(htmlSideMenu, htmlSideMenu.classList.contains('pinned'));
         };
-        var checkIfNeedToCloseMenu = function () {
-            var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+        const checkIfNeedToCloseMenu = function () {
+            const width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
             if (width <= 767 && htmlSideMenu.classList.contains('open') === true) {
                 htmlSideMenu.classList.remove('open');
                 menuStateChanged(htmlSideMenu, htmlSideMenu.classList.contains('open'));
@@ -44,12 +44,12 @@
                 menuStateChanged(htmlSideMenu, htmlSideMenu.classList.contains('open'));
             }
         };
-        var menuStateChanged = function (element, state) {
-            var evt = new CustomEvent('menuStateChanged', { detail: { open: state} });
+        const menuStateChanged = function (element, state) {
+            const evt = new CustomEvent('menuStateChanged', {detail: {open: state}});
             element.dispatchEvent(evt);
         };
-        var menuPinStateChanged = function (element, state) {
-            var evt = new CustomEvent('menuPinStateChanged', { detail: { pinned: state} });
+        const menuPinStateChanged = function (element, state) {
+            const evt = new CustomEvent('menuPinStateChanged', {detail: {pinned: state}});
             element.dispatchEvent(evt);
         };
         init();
@@ -59,13 +59,11 @@
             toggleMenuPinState: toggleMenuPinState
         };
     };
-
-    window.SideMenu = sideMenu;
 })(window);
 
 
-var documentReady = function (fn) {
-    if (document.readyState != 'loading') {
+const documentReady = function (fn) {
+    if (document.readyState !== 'loading') {
         fn();
     } else {
         document.addEventListener('DOMContentLoaded', fn);
@@ -73,7 +71,7 @@ var documentReady = function (fn) {
 };
 
 documentReady(function() {
-    var sidebarMenu = new SideMenu(document.querySelector('.sidebar-menu'))
+    const sidebarMenu = new SideMenu(document.querySelector('.sidebar-menu'));
     sidebarMenu.htmlElement.addEventListener('menuPinStateChanged', function(e) {
     }, false);
     sidebarMenu.htmlElement.addEventListener('menuStateChanged', function(e) {
