@@ -1,2 +1,17 @@
 remote_theme: jamigibbs/phantom
 theme: phantom
+
+# Site settings
+title: "Hello. I'm Dariusz Duda."
+email: 'dariusz.duda@poczta.hub.pl'
+description: "I'm a software developer and designer from Lublin creating useful things for the web."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "darekrepos.github.io"
+twitter_username: 'darekrepos'
+github_username: 'darekrepos'
+
+### Phantom settings
+footer_text: '� 2021 Darek Duda'
+admin_name: 'Darek Duda'
+google_analytics: "UA-9999999-99"
+enable_contact: false
