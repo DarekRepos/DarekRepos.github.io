@@ -1,5 +1,7 @@
 remote_theme: andrewbanchich/forty-jekyll-theme
 
+plugins:
+  - jekyll-remote-theme
 
 # site settings
 title: Forty
@@ -30,7 +32,7 @@ socials:
   Google-Plus:
   Instagram:
   LinkedIn:
-  Twitter: 
+  Twitter:
   Facebook:
   Slack:
 
