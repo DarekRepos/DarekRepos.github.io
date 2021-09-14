@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 remote_theme: andrewbanchich/forty-jekyll-theme
 
 
@@ -36,33 +35,10 @@ socials:
   Slack:
 
 # build settings
-=======
-remote_theme: github/personal-website
-
-# Site settings
-title: "Hello. I'm Dariusz Duda."
-email: 'dariusz.duda@poczta.hub.pl'
-description: "I'm a software developer and designer from Lublin creating useful things for the web."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "darekrepos.github.io"
-twitter_username: 'darekrepos'
-github_username: 'darekrepos'
-medium_username: ''
-
-# Build settings
->>>>>>> 36e3a6fb38deae49adbcfc60ec277c048a42fae0
 markdown: kramdown
 
-<<<<<<< HEAD
 sass:
   style: compressed
-=======
-### Phantom settings
-footer_text: '2021 Darek Duda'
-admin_name: 'Darek Duda'
-google_analytics: "UA-9999999-99"
-enable_contact: false
->>>>>>> 36e3a6fb38deae49adbcfc60ec277c048a42fae0
 
 exclude:
 - "*.gemspec"
