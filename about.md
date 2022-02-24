@@ -1,9 +1,6 @@
 ---
-layout: home
-title: Home
-landing-title: 'Hi, my name is Darek'
-description: null
-image: null
-author: null
-show_tile: false
+layout: page
+title: About me
+image: assets/images/pic01.jpg
+nav-menu: true
 ---
