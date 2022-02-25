@@ -20,6 +20,9 @@ nav-menu: true
     	<li><a href="#" class="button">HTML</a></li>
     	<li><a href="#" class="button">CSS</a></li>
     </ul>
+		<ul class="actions">
+			<li><a href="https://darekrepos.github.io/tribute-to-Ralph-Modejski/" class="button special">Learn more</a></li>
+		</ul>
 	</div>
 </section>
 
