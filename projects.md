@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Tribute website/h2>
+			<h2>Tribute website</h2>
 		</header>
 		<p> I decided make my own project - Ralph Modejski tribute page (Website are designed and developed by me). I chose Ralph Modjeski for this tribute page because i want to show the story of master engineer Ralph Modjeski besides learning new technology.</p>
     <ul class="actions">
