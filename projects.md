@@ -39,7 +39,7 @@ nav-menu: true
         	<li><a href="#" class="button">Common Lisp</a></li>
         </ul>        
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button special">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -58,15 +58,10 @@ nav-menu: true
           <li><a href="#" class="button">PHP</a></li>
           <li><a href="#" class="button">Wordpress</a></li>
           <li><a href="#" class="button">HTML</a></li>
-					class="button">HTML</a></li>
-          <li><a href="#" class="button">HTML</a></li>
-					class="button">CSS</a></li>
-          <li><a href="#" class="button">HTML</a></li>
-					class="button">Javascript</a></li>
-          <li><a href="#" class="button">HTML</a></li>
+          <li><a href="#" class="button">Javascript</a></li>
         </ul>    
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button special">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -87,7 +82,7 @@ nav-menu: true
           <li><a href="#" class="button">Windows Forms</a></li>
         </ul>    
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button special">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -110,7 +105,7 @@ nav-menu: true
 				<li><a href="#" class="button">.NET Framework</a></li>
 			</ul>    
 			<ul class="actions">
-				<li><a href="generic.html" class="button">Learn more</a></li>
+				<li><a href="generic.html" class="button special">Learn more</a></li>
 			</ul>
 		</div>
 	</div>
@@ -119,7 +114,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>www.duda-dom.pl</h2>
+			<h2>Static website for construction company</h2>
 		</header>
 		<p>It's a static Website project with simple PHP form</p>
 		<ul class="actions">
@@ -127,7 +122,7 @@ nav-menu: true
 			<li><a href="#" class="button">CSS</a></li>
 		</ul>
 		<ul class="actions">
-			<li><a href="www.duda-dom.pl" class="button next">Get Started</a></li>
+			<li><a href="#" class="button special">Get Started</a></li>
 		</ul>
 	</div>
 </section>
