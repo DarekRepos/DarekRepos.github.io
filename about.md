@@ -5,7 +5,7 @@ description: A little bit about me
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
-<div id="main 6u$ 12u$(medium)">
+<div id="main class="inner">
 
 <!-- One -->
 <section id="one">
