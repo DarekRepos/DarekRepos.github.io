@@ -117,7 +117,7 @@ nav-menu: true
 	</div>
 </section>
 <!-- four -->
-<section id="three">
+<section id="four">
 	<div class="inner">
 		<header class="major">
 			<h2>Static website for construction company</h2>
@@ -126,9 +126,10 @@ nav-menu: true
 		<ul class="actions">
 			<li><a href="#" class="button">HTML</a></li>
 			<li><a href="#" class="button">CSS</a></li>
+			<li><a href="#" class="button">PHP</a></li>
 		</ul>
 		<ul class="actions">
-			<li><a href="#" class="button special">Learn more</a></li>
+			<li><a href="https://duda-dom.pl" class="button special">Learn more</a></li>
 		</ul>
 	</div>
 </section>
