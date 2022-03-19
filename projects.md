@@ -101,14 +101,14 @@ nav-menu: true
 			<header class="major">
 				<h3>Auto clicker</h3>
 			</header>
-			<p>Windows program that allow you to reapeat the mouse click with selected interval. Set your mouse auto clicker interval and select single or double click on the left or right mouse buttons and your ready to let mouse clicker do the work for you.</p>
+			<p>Windows program that allow you to repeat the mouse click with selected interval. Set your mouse auto clicker interval and select single or double click on the left or right mouse buttons and your ready to let mouse clicker do the work for you. Website project uses Jekyll site using GitLab Pages. Website is automatically deployed using CI/CD pipeline</p>
 			<ul class="actions">
 				<li><a href="#" class="button">C#</a></li>
 				<li><a href="#" class="button">Windows Forms</a></li>
 				<li><a href="#" class="button">.NET Framework</a></li>
 			</ul>    
 			<ul class="actions">
-				<li><a href="https://darekrepos.github.io/Clicker" class="button special">Learn more</a></li>
+				<li><a href="https://erydanand3osob.gitlab.io/Clicker" class="button special">Learn more</a></li>
 			</ul>
 		</div>
 	</div>
@@ -119,7 +119,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Static website for construction company</h2>
 		</header>
-		<p>It's a static Website project with simple PHP form</p>
+		<p>It's a static Website project with simple PHP form. This static website is automatically deployed using CI/CD pipeline</p>
 		<ul class="actions">
 			<li><a href="#" class="button">HTML</a></li>
 			<li><a href="#" class="button">CSS</a></li>
