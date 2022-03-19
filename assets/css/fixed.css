@@ -4,4 +4,5 @@
 .aligncenter{
     display: block;
     margin: 1em auto;
+    text-align: center;
 }
