@@ -83,6 +83,7 @@ nav-menu: true
           <li><a href="#" class="button">C#</a></li>
           <li><a href="#" class="button">.NET Framework</a></li>
           <li><a href="#" class="button">Windows Forms</a></li>
+					<li><a href="#" class="button">AutoCAD Civil 3D .NET API</a></li>
         </ul>    
 			</div>
 		</div>
@@ -91,10 +92,10 @@ nav-menu: true
 <!-- Three -->
 <section>
 	<a href="generic.html" class="image">
-		<img src="{% link assets/images/Clicker.png %}" alt="" data-position="top center" />
+		<img src="{% link assets/images/Clicker.png %}" alt="" data-position="center" />
 	</a>
 	<a href="generic.html" class="image">
-		<img src="{% link assets/images/Clicker2.png %}" alt="" data-position="top center" />
+		<img src="{% link assets/images/Clicker2.png %}" alt="" data-position="center" />
 	</a>
 	<div class="content">
 		<div class="inner">
