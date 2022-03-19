@@ -42,7 +42,7 @@ nav-menu: true
         	<li><a href="#" class="button">Common Lisp</a></li>
         </ul>        
 				<ul class="actions">
-					<li><a href="generic.html" class="button special">Learn more</a></li>
+					<li><a href="https://github.com/DarekRepos/koty-wysokosciowe" class="button special">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -64,7 +64,7 @@ nav-menu: true
           <li><a href="#" class="button">Javascript</a></li>
         </ul>    
 				<ul class="actions">
-					<li><a href="generic.html" class="button special">Learn more</a></li>
+					<li><a href="https://github.com/DarekRepos/myEvent" class="button special">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -111,7 +111,7 @@ nav-menu: true
 				<li><a href="#" class="button">.NET Framework</a></li>
 			</ul>    
 			<ul class="actions">
-				<li><a href="generic.html" class="button special">Learn more</a></li>
+				<li><a href="darekrepos.github.io/myAutoClicker" class="button special">Learn more</a></li>
 			</ul>
 		</div>
 	</div>
