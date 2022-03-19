@@ -21,7 +21,7 @@ nav-menu: true
     	<li><a href="#" class="button">CSS</a></li>
     </ul>
 		<ul class="actions">
-			<li><a href="https://darekrepos.github.io/tribute-to-Ralph-Modejski/" class="button special">Learn more</a></li>
+			<li><a href="https://darekrepos.github.io/tribute-to-Ralph-Modejski/" class="button special spaced">Learn more</a></li>
 		</ul>
 	</div>
 </section>
@@ -42,7 +42,7 @@ nav-menu: true
         	<li><a href="#" class="button">Common Lisp</a></li>
         </ul>        
 				<ul class="actions">
-					<li><a href="https://github.com/DarekRepos/koty-wysokosciowe" class="button special">Learn more</a></li>
+					<li><a href="https://github.com/DarekRepos/koty-wysokosciowe" class="button special spaced">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -64,7 +64,7 @@ nav-menu: true
           <li><a href="#" class="button">Javascript</a></li>
         </ul>    
 				<ul class="actions">
-					<li><a href="https://github.com/DarekRepos/myEvent" class="button special">Learn more</a></li>
+					<li><a href="https://github.com/DarekRepos/myEvent" class="button special spaced">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -109,7 +109,7 @@ nav-menu: true
 				<li><a href="#" class="button">.NET Framework</a></li>
 			</ul>    
 			<ul class="actions">
-				<li><a href="https://erydanand3osob.gitlab.io/Clicker" class="button special">Learn more</a></li>
+				<li><a href="https://erydanand3osob.gitlab.io/Clicker" class="button special spaced">Learn more</a></li>
 			</ul>
 		</div>
 	</div>
@@ -127,7 +127,7 @@ nav-menu: true
 			<li><a href="#" class="button">PHP</a></li>
 		</ul>
 		<ul class="actions">
-			<li><a href="https://duda-dom.pl" class="button special">Learn more</a></li>
+			<li><a href="https://duda-dom.pl" class="button special spaced">Learn more</a></li>
 		</ul>
 	</div>
 </section>
