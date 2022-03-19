@@ -29,7 +29,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/DarekRepos/koty-wysokosciowe" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -48,7 +48,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/DarekRepos/myEvent" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -91,10 +91,10 @@ nav-menu: true
 </section>
 <!-- Three -->
 <section>
-	<a href="generic.html" class="image">
+	<a href="https://erydanand3osob.gitlab.io/Clicker" class="image aligncenter">
 		<img src="{% link assets/images/Clicker.png %}" alt="" data-position="center" />
 	</a>
-	<a href="generic.html" class="image">
+	<a href="https://erydanand3osob.gitlab.io/Clicker" class="image aligncenter">
 		<img src="{% link assets/images/Clicker2.png %}" alt="" data-position="center" />
 	</a>
 	<div class="content">
