@@ -70,13 +70,13 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a href="#" class="image">
+			<img src="{% link assets/images/opcje-ustawień-stylu.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>AutoCAD Civil - Labels plugin</h3>
+					<h3>AutoCAD Civil 3D - Labels plugin</h3>
 				</header>
 				<p> My plugin  implements a command that allows you to insert labels in the profile in your drawing with attributes that you want from profile of the road. AutoCAD has four different APIs – .NET, LISP, ActiveX and ObjectARX (C++). This plugin uses .NET because it offers the most powerful and modern programming environment. This plugin uses AutoCAD .NET Application Programming Interface (API) and C# .NET programming language</p>
         <ul class="actions">
@@ -84,9 +84,6 @@ nav-menu: true
           <li><a href="#" class="button">.NET Framework</a></li>
           <li><a href="#" class="button">Windows Forms</a></li>
         </ul>    
-				<ul class="actions">
-					<li><a href="generic.html" class="button special">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -94,10 +91,10 @@ nav-menu: true
 <!-- Three -->
 <section>
 	<a href="generic.html" class="image">
-		<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<img src="{% link assets/images/Clicker.png %}" alt="" data-position="top center" />
 	</a>
 	<a href="generic.html" class="image">
-		<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="top center" />
+		<img src="{% link assets/images/Clicker2.png %}" alt="" data-position="top center" />
 	</a>
 	<div class="content">
 		<div class="inner">
@@ -111,7 +108,7 @@ nav-menu: true
 				<li><a href="#" class="button">.NET Framework</a></li>
 			</ul>    
 			<ul class="actions">
-				<li><a href="darekrepos.github.io/myAutoClicker" class="button special">Learn more</a></li>
+				<li><a href="https://darekrepos.github.io/Clicker" class="button special">Learn more</a></li>
 			</ul>
 		</div>
 	</div>
