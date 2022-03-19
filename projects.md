@@ -17,11 +17,11 @@ nav-menu: true
 		</header>
 		<p> I decided make my own project - Ralph Modejski tribute page (Website are designed and developed by me). I chose Ralph Modjeski for this tribute page because i want to show the story of master engineer Ralph Modjeski besides learning new technology.</p>
     <ul class="actions">
-    	<li><a href="#" class="button">HTML</a></li>
-    	<li><a href="#" class="button">CSS</a></li>
+    	<li><a href="#" class="button spaced">HTML</a></li>
+    	<li><a href="#" class="button spaced">CSS</a></li>
     </ul>
 		<ul class="actions">
-			<li><a href="https://darekrepos.github.io/tribute-to-Ralph-Modejski/" class="button special spaced">Learn more</a></li>
+			<li><a href="https://darekrepos.github.io/tribute-to-Ralph-Modejski/" class="button special">Learn more</a></li>
 		</ul>
 	</div>
 </section>
@@ -39,10 +39,10 @@ nav-menu: true
 				</header>
 				<p>Program do wstawiania dynamicznych kot wysokościowych w środowisku AutoCAD</p>
         <ul class="actions">
-        	<li><a href="#" class="button">Common Lisp</a></li>
+        	<li><a href="#" class="button spaced">Common Lisp</a></li>
         </ul>        
 				<ul class="actions">
-					<li><a href="https://github.com/DarekRepos/koty-wysokosciowe" class="button special spaced">Learn more</a></li>
+					<li><a href="https://github.com/DarekRepos/koty-wysokosciowe" class="button special">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -58,13 +58,13 @@ nav-menu: true
 				</header>
 				<p>Wordpress plugin that allow you to add events from WordPress widgets.</p>
         <ul class="actions">
-          <li><a href="#" class="button">PHP</a></li>
-          <li><a href="#" class="button">Wordpress</a></li>
-          <li><a href="#" class="button">HTML</a></li>
-          <li><a href="#" class="button">Javascript</a></li>
+          <li><a href="#" class="button spaced">PHP</a></li>
+          <li><a href="#" class="button spaced">Wordpress</a></li>
+          <li><a href="#" class="button spaced">HTML</a></li>
+          <li><a href="#" class="button spaced">Javascript</a></li>
         </ul>    
 				<ul class="actions">
-					<li><a href="https://github.com/DarekRepos/myEvent" class="button special spaced">Learn more</a></li>
+					<li><a href="https://github.com/DarekRepos/myEvent" class="button special">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,10 +80,10 @@ nav-menu: true
 				</header>
 				<p> My plugin  implements a command that allows you to insert labels in the profile in your drawing with attributes that you want from profile of the road. AutoCAD has four different APIs – .NET, LISP, ActiveX and ObjectARX (C++). This plugin uses .NET because it offers the most powerful and modern programming environment. This plugin uses AutoCAD .NET Application Programming Interface (API) and C# .NET programming language</p>
         <ul class="actions">
-          <li><a href="#" class="button">C#</a></li>
-          <li><a href="#" class="button">.NET Framework</a></li>
-          <li><a href="#" class="button">Windows Forms</a></li>
-					<li><a href="#" class="button">AutoCAD Civil 3D .NET API</a></li>
+          <li><a href="#" class="button spaced">C#</a></li>
+          <li><a href="#" class="button spaced">.NET Framework</a></li>
+          <li><a href="#" class="button spaced">Windows Forms</a></li>
+					<li><a href="#" class="button spaced">AutoCAD Civil 3D .NET API</a></li>
         </ul>    
 			</div>
 		</div>
@@ -104,12 +104,12 @@ nav-menu: true
 			</header>
 			<p>Windows program that allow you to repeat the mouse click with selected interval. Set your mouse auto clicker interval and select single or double click on the left or right mouse buttons and your ready to let mouse clicker do the work for you. Website project uses Jekyll site using GitLab Pages. Website is automatically deployed using CI/CD pipeline</p>
 			<ul class="actions">
-				<li><a href="#" class="button">C#</a></li>
-				<li><a href="#" class="button">Windows Forms</a></li>
-				<li><a href="#" class="button">.NET Framework</a></li>
+				<li><a href="#" class="button spaced">C#</a></li>
+				<li><a href="#" class="button spaced">Windows Forms</a></li>
+				<li><a href="#" class="button spaced">.NET Framework</a></li>
 			</ul>    
 			<ul class="actions">
-				<li><a href="https://erydanand3osob.gitlab.io/Clicker" class="button special spaced">Learn more</a></li>
+				<li><a href="https://erydanand3osob.gitlab.io/Clicker" class="button special">Learn more</a></li>
 			</ul>
 		</div>
 	</div>
@@ -122,12 +122,12 @@ nav-menu: true
 		</header>
 		<p>It's a static Website project with simple PHP form. This static website is automatically deployed using CI/CD pipeline</p>
 		<ul class="actions">
-			<li><a href="#" class="button">HTML</a></li>
-			<li><a href="#" class="button">CSS</a></li>
-			<li><a href="#" class="button">PHP</a></li>
+			<li><a href="#" class="button spaced">HTML</a></li>
+			<li><a href="#" class="button spaced">CSS</a></li>
+			<li><a href="#" class="button spaced">PHP</a></li>
 		</ul>
 		<ul class="actions">
-			<li><a href="https://duda-dom.pl" class="button special spaced">Learn more</a></li>
+			<li><a href="https://duda-dom.pl" class="button special">Learn more</a></li>
 		</ul>
 	</div>
 </section>
