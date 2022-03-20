@@ -101,6 +101,7 @@ nav-menu: true
 		<div class="inner">
 			<header class="major">
 				<h3>Auto clicker</h3>
+				<a href="https://gitlab.com/erydanand3osob/Auto-clicker/-/commits/master"><img alt="pipeline status" src="https://gitlab.com/erydanand3osob/Auto-clicker/badges/master/pipeline.svg" /></a>
 			</header>
 			<p>Windows program that allow you to repeat the mouse click with selected interval. Set your mouse auto clicker interval and select single or double click on the left or right mouse buttons and your ready to let mouse clicker do the work for you. Website project uses Jekyll site using GitLab Pages. Website is automatically deployed using CI/CD pipeline</p>
 			<ul class="actions">
@@ -119,6 +120,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h2>Static website for construction company</h2>
+			<a href="https://gitlab.com/erydanand3osob/duda-dom.pl-website/-/commits/master"><img alt="pipeline status" src="https://gitlab.com/erydanand3osob/duda-dom.pl-website/badges/master/pipeline.svg" /></a>
 		</header>
 		<p>It's a static Website project with simple PHP form. This static website is automatically deployed using CI/CD pipeline</p>
 		<ul class="actions">
@@ -127,7 +129,7 @@ nav-menu: true
 			<li><a href="#" class="button spaced">PHP</a></li>
 		</ul>
 		<ul class="actions">
-			<li><a href="https://duda-dom.pl" class="button special">Learn more</a></li>
+			<li><a href="https://erydanand3osob.gitlab.io/duda-dom.pl-website" class="button special">Learn more</a></li>
 		</ul>
 	</div>
 </section>
