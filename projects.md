@@ -120,6 +120,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h2>Static website for construction company</h2>
+			<a href="https://gitlab.com/erydanand3osob/duda-dom.pl-website/-/commits/master"><img alt="pipeline status" src="https://gitlab.com/erydanand3osob/duda-dom.pl-website/badges/master/pipeline.svg" /></a>
 		</header>
 		<p>It's a static Website project with simple PHP form. This static website is automatically deployed using CI/CD pipeline</p>
 		<ul class="actions">
