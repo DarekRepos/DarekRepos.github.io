@@ -62,6 +62,8 @@ nav-menu: true
           <li><a href="#" class="button spaced">Wordpress</a></li>
           <li><a href="#" class="button spaced">HTML</a></li>
           <li><a href="#" class="button spaced">Javascript</a></li>
+					<li><a href="#" class="button spaced">Docker</a></li>
+					<li><a href="#" class="button spaced">Travis CI</a></li>
         </ul>    
 				<ul class="actions">
 					<li><a href="https://github.com/DarekRepos/myEvent" class="button special">Learn more</a></li>
