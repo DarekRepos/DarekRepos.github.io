@@ -101,6 +101,7 @@ nav-menu: true
 		<div class="inner">
 			<header class="major">
 				<h3>Auto clicker</h3>
+				<a href="https://gitlab.com/erydanand3osob/Auto-clicker/-/commits/master"><img alt="pipeline status" src="https://gitlab.com/erydanand3osob/Auto-clicker/badges/master/pipeline.svg" /></a>
 			</header>
 			<p>Windows program that allow you to repeat the mouse click with selected interval. Set your mouse auto clicker interval and select single or double click on the left or right mouse buttons and your ready to let mouse clicker do the work for you. Website project uses Jekyll site using GitLab Pages. Website is automatically deployed using CI/CD pipeline</p>
 			<ul class="actions">
