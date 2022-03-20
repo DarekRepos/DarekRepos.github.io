@@ -127,7 +127,7 @@ nav-menu: true
 			<li><a href="#" class="button spaced">PHP</a></li>
 		</ul>
 		<ul class="actions">
-			<li><a href="https://duda-dom.pl" class="button special">Learn more</a></li>
+			<li><a href="https://erydanand3osob.gitlab.io/duda-dom.pl-website" class="button special">Learn more</a></li>
 		</ul>
 	</div>
 </section>
