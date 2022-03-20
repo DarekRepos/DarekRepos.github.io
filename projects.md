@@ -91,10 +91,10 @@ nav-menu: true
 </section>
 <!-- Three -->
 <section>
-	<a href="https://erydanand3osob.gitlab.io/Clicker" class="aligncenter">
+	<a href="https://erydanand3osob.gitlab.io/Auto-clicker" class="aligncenter">
 		<img src="{% link assets/images/Clicker.png %}" alt="" data-position="center" />
 	</a>
-	<a href="https://erydanand3osob.gitlab.io/Clicker" class="aligncenter">
+	<a href="https://erydanand3osob.gitlab.io/Auto-clicker" class="aligncenter">
 		<img src="{% link assets/images/Clicker2.png %}" alt="" data-position="center" />
 	</a>
 	<div class="content">
@@ -109,7 +109,7 @@ nav-menu: true
 				<li><a href="#" class="button spaced">.NET Framework</a></li>
 			</ul>    
 			<ul class="actions">
-				<li><a href="https://erydanand3osob.gitlab.io/Clicker" class="button special">Learn more</a></li>
+				<li><a href="https://erydanand3osob.gitlab.io/Auto-clicker" class="button special">Learn more</a></li>
 			</ul>
 		</div>
 	</div>
