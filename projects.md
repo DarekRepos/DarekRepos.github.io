@@ -138,7 +138,7 @@ nav-menu: true
 <!-- five -->
 <section>
 	<a href="https://darekrepos.github.io/mapasolectw/" class="image">
-		<img src="{% link assets/images/mapasolectw.png %}" alt="" data-position="top center" />
+		<img src="{% link assets/images/mapasolectw.png %}" alt="" data-position="25% 25%" />
 	</a>
 	<div class="content">
 		<div class="inner">
