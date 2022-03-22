@@ -135,5 +135,25 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
+<!-- five -->
+<section>
+	<a href="https://darekrepos.github.io/mapasolectw/" class="image">
+		<img src="{% link assets/images/mapasolectw.png %}" alt="" data-position="top center" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>QGIS map</h3>
+			</header>
+			<p>The Map with Geospatial data using QGIS</p>
+			<ul class="actions">
+				<li><a href="#" class="button spaced">QGIS</a></li>
 
+			</ul>    
+			<ul class="actions">
+				<li><a href="https://darekrepos.github.io/mapasolectw/" class="button special">Learn more</a></li>
+			</ul>
+		</div>
+	</div>
+</section>
 </div>
