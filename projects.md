@@ -103,7 +103,11 @@ nav-menu: true
 		<div class="inner">
 			<header class="major">
 				<h3>Auto clicker</h3>
+<<<<<<< HEAD
 				<a href="https://gitlab.com/erydanand3osob/Auto-clicker-website/-/commits/main" class="pipeline status"><img alt="pipeline status" src="https://gitlab.com/erydanand3osob/Auto-clicker-website/badges/main/pipeline.svg" /></a>
+=======
+				<a href="https://gitlab.com/erydanand3osob/Auto-clicker-website/-/commits/main" pipeline-style><img alt="pipeline status" src="https://gitlab.com/erydanand3osob/Auto-clicker-website/badges/main/pipeline.svg" /></a>
+>>>>>>> 02f413e51babb3df8eb0b441af71a4572c26cd5e
 			</header>
 			<p>Windows program that allow you to repeat the mouse click with selected interval. Set your mouse auto clicker interval and select single or double click on the left or right mouse buttons and your ready to let mouse clicker do the work for you. Website project uses Jekyll site using GitLab Pages. Website is automatically deployed using CI/CD pipeline</p>
 			<ul class="actions">
@@ -122,7 +126,11 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h2>Static website for construction company</h2>
+<<<<<<< HEAD
 			<a href="https://gitlab.com/erydanand3osob/duda-dom.pl-website/-/commits/master" class="pipeline status"><img alt="pipeline status" src="https://gitlab.com/erydanand3osob/duda-dom.pl-website/badges/master/pipeline.svg" /></a>
+=======
+			<a href="https://gitlab.com/erydanand3osob/duda-dom.pl-website/-/commits/master" class="pipeline-style"><img alt="pipeline status" src="https://gitlab.com/erydanand3osob/duda-dom.pl-website/badges/master/pipeline.svg" /></a>
+>>>>>>> 02f413e51babb3df8eb0b441af71a4572c26cd5e
 		</header>
 		<p>It's a static Website project with simple PHP form. This static website is automatically deployed using CI/CD pipeline</p>
 		<ul class="actions">
