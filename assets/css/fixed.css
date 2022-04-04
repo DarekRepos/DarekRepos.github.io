@@ -6,3 +6,9 @@
     margin: 1em auto;
     text-align: center;
 }
+a.aligncenter{
+  border-bottom: none;
+}
+.pipeline.status{
+    border-bottom: none;
+}
