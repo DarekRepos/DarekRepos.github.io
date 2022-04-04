@@ -9,3 +9,6 @@
 a.aligncenter{
   border-bottom: none;
 }
+.pipeline.status{
+    border-bottom: none;
+}
