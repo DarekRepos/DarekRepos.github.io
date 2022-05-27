@@ -122,7 +122,8 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h2>Static website for construction company</h2>
-			<a href="https://gitlab.com/erydanand3osob/duda-dom.pl-website/-/commits/master" class="pipeline status"><img alt="pipeline status" src="https://gitlab.com/erydanand3osob/duda-dom.pl-website/badges/master/pipeline.svg" /></a>
+      <img alt="pipeline status" src="https://erydanand3osob.gitlab.io/duda-dom.pl-website/img/commits.svg" />
+			<img alt="pipeline status" src="https://erydanand3osob.gitlab.io/duda-dom.pl-website/img/build.svg" />			
 		</header>
 		<p>It's a static Website project with simple PHP form. E-mail from the form are sending using PHP. This website is automatically deployed using CI/CD pipeline</p>
 		<ul class="actions">
