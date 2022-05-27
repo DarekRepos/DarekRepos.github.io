@@ -103,16 +103,24 @@ nav-menu: true
 		<div class="inner">
 			<header class="major">
 				<h3>Auto clicker</h3>
-				<a href="https://gitlab.com/erydanand3osob/Auto-clicker-website/-/commits/main" class="pipeline status"><img alt="pipeline status" src="https://gitlab.com/erydanand3osob/Auto-clicker-website/badges/main/pipeline.svg" /></a>
 			</header>
-			<p>Windows program that allow you to repeat the mouse click with selected interval. Set your mouse auto clicker interval and select single or double click on the left or right mouse buttons and your ready to let mouse clicker do the work for you. Website project uses Jekyll site using GitLab Pages. Website is automatically deployed using CI/CD pipeline</p>
+			<p>Windows program that allow you to repeat the mouse click with selected interval. Set your mouse auto clicker interval and select single or double click on the left or right mouse buttons and your ready to let mouse clicker do the work for you. </p>
 			<ul class="actions">
 				<li><a href="#" class="button spaced">C#</a></li>
 				<li><a href="#" class="button spaced">Windows Forms</a></li>
 				<li><a href="#" class="button spaced">.NET Framework</a></li>
 			</ul>    
+				<p>More informations you can see on the Website. Website project uses Jekyll site using GitLab Pages. Website is automatically deployed using CI/CD pipeline</p>
+				<img alt="pipeline status" src="https://gitlab.com/erydanand3osob/Auto-clicker-website/badges/main/pipeline.svg" />					
+				<img alt="github scoped" src="https://gitlab.com/erydanand3osob/Auto-clicker-website/badges/main/gitlab_scoped.svg" />		
+				<img alt="build wit love" src="https://gitlab.com/erydanand3osob/Auto-clicker-website/badges/main/build.svg" />								 
+				<ul class="actions">
+					<li><a href="#" class="button spaced">sass</a></li>
+					<li><a href="#" class="button spaced">jekyll</a></li>
+					<li><a href="#" class="button spaced">html</a></li>
+				</ul>
 			<ul class="actions">
-				<li><a href="https://erydanand3osob.gitlab.io/Auto-clicker-website/" class="button special">Learn more</a></li>
+				<li><a href="https://erydanand3osob.gitlab.io/Auto-clicker-website/" class="button special">View website</a></li>
 			</ul>
 		</div>
 	</div>
