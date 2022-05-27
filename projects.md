@@ -104,17 +104,18 @@ nav-menu: true
 			<header class="major">
 				<h3>Auto clicker</h3>
 			</header>
+			<h3>Windows Application</h3>
 			<p>Windows program that allow you to repeat the mouse click with selected interval. Set your mouse auto clicker interval and select single or double click on the left or right mouse buttons and your ready to let mouse clicker do the work for you. </p>
 			<ul class="actions">
 				<li><a href="#" class="button spaced">C#</a></li>
 				<li><a href="#" class="button spaced">Windows Forms</a></li>
 				<li><a href="#" class="button spaced">.NET Framework</a></li>
 			</ul>    
+			<h3>Website</h3>
+			  <img alt="commits" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/commits.svg" />		
+			  <img alt="pipeline status" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/build.svg" />					
+			  <img alt="GitLab scoped" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/gitlab_scoped.svg" />				
 				<p>More informations you can see on the Website. Website project uses Jekyll site using GitLab Pages. Website is automatically deployed using CI/CD pipeline</p>
-				<img alt="commits" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/commits.svg" />		
-				<img alt="pipeline status" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/build.svg" />					
-				<img alt="GitLab scoped" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/gitlab_scoped.svg" />		
-
 				<ul class="actions">
 					<li><a href="#" class="button spaced">sass</a></li>
 					<li><a href="#" class="button spaced">jekyll</a></li>
