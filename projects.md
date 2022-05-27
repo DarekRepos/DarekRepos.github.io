@@ -111,9 +111,10 @@ nav-menu: true
 				<li><a href="#" class="button spaced">.NET Framework</a></li>
 			</ul>    
 				<p>More informations you can see on the Website. Website project uses Jekyll site using GitLab Pages. Website is automatically deployed using CI/CD pipeline</p>
-				<img alt="pipeline status" src="https://gitlab.com/erydanand3osob/Auto-clicker-website/badges/main/pipeline.svg" />					
-				<img alt="github scoped" src="https://gitlab.com/erydanand3osob/Auto-clicker-website/badges/main/gitlab_scoped.svg" />		
-				<img alt="build wit love" src="https://gitlab.com/erydanand3osob/Auto-clicker-website/badges/main/build.svg" />								 
+				<img alt="commits" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/commits.svg" />		
+				<img alt="pipeline status" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/build.svg" />					
+				<img alt="GitLab scoped" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/gitlab_scoped.svg" />		
+
 				<ul class="actions">
 					<li><a href="#" class="button spaced">sass</a></li>
 					<li><a href="#" class="button spaced">jekyll</a></li>
