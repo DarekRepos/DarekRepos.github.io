@@ -162,7 +162,7 @@ nav-menu: true
 
 			</ul>    
 			<ul class="actions">
-				<li><a href="https://darekrepos.github.io/mapasolectw/" class="button special">Learn more</a></li>
+				<li><a href="https://darekrepos.github.io/mapasolectw/" class="button special">View website</a></li>
 			</ul>
 		</div>
 	</div>
