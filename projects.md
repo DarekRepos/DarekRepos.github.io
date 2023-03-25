@@ -9,6 +9,27 @@ nav-menu: true
 <!-- Main -->
 <div id="main 6u$ 12u$(medium)">
 
+<!-- six -->
+<section id="six" class="spotlights">
+	<section>
+		<a href="https://github.com/DarekRepos/PanTadeuszWordFinder" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>CLI python app for counting words</h3>
+				</header>
+				<p>Command line tool that help find any word within any file. The files can be selected by command line</p>
+        <ul class="actions">
+        	<li><a href="#" class="button spaced">Python</a></li>
+        </ul>        
+				<ul class="actions">
+					<li><a href="https://github.com/DarekRepos/PanTadeuszWordFinder" class="button special">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 <!-- One -->
 <section id="one">
 	<div class="inner">
