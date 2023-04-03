@@ -11,9 +11,8 @@ nav-menu: true
 
 <!-- six -->
 <section id="six" class="spotlights">
-	<section>
 		<a href="https://github.com/DarekRepos/PanTadeuszWordFinder" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -29,7 +28,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+</section>
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -51,7 +50,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://github.com/DarekRepos/koty-wysokosciowe" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -70,7 +69,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://github.com/DarekRepos/myEvent" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -94,7 +93,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/opcje-ustawień-stylu.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/opcje-ustawień-stylu.png %}" alt="" data-position="25% 25%"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -115,10 +114,10 @@ nav-menu: true
 <!-- Three -->
 <section>
 	<a href="https://erydanand3osob.gitlab.io/Auto-clicker-website/" class="aligncenter">
-		<img src="{% link assets/images/Clicker.png %}" alt="" data-position="center" />
+		<img src="{% link assets/images/Clicker.png %}" alt="" data-position="center"/>
 	</a>
 	<a href="https://erydanand3osob.gitlab.io/Auto-clicker-website/" class="aligncenter">
-		<img src="{% link assets/images/Clicker2.png %}" alt="" data-position="center" />
+		<img src="{% link assets/images/Clicker2.png %}" alt="" data-position="center"/>
 	</a>
 	<div class="content">
 		<div class="inner">
@@ -133,9 +132,9 @@ nav-menu: true
 				<li><a href="#" class="button spaced">.NET Framework</a></li>
 			</ul>    
 			<h3>Website</h3>
-			  <img alt="commits" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/commits.svg" />		
-			  <img alt="pipeline status" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/build.svg" />					
-			  <img alt="GitLab scoped" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/gitlab_scoped.svg" />				
+			  <img alt="commits" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/commits.svg"/>		
+			  <img alt="pipeline status" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/build.svg"/>					
+			  <img alt="GitLab scoped" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/gitlab_scoped.svg"/>				
 				<p>More informations you can see on the Website. Website project uses Jekyll site using GitLab Pages. Website is automatically deployed using CI/CD pipeline</p>
 				<ul class="actions">
 					<li><a href="#" class="button spaced">sass</a></li>
@@ -153,8 +152,8 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h2>Static website for construction company</h2>
-      <img alt="pipeline status" src="https://erydanand3osob.gitlab.io/duda-dom.pl-website/img/commits.svg" />
-			<img alt="pipeline status" src="https://erydanand3osob.gitlab.io/duda-dom.pl-website/img/build.svg" />			
+      <img alt="pipeline status" src="https://erydanand3osob.gitlab.io/duda-dom.pl-website/img/commits.svg"/>
+			<img alt="pipeline status" src="https://erydanand3osob.gitlab.io/duda-dom.pl-website/img/build.svg"/>			
 		</header>
 		<p>It's a static Website project with simple PHP form. E-mail from the form are sending using PHP. This website is automatically deployed using CI/CD pipeline</p>
 		<ul class="actions">
@@ -170,7 +169,7 @@ nav-menu: true
 <!-- five -->
 <section>
 	<a href="https://darekrepos.github.io/mapasolectw/" class="image">
-		<img src="{% link assets/images/mapasolectw.png %}" alt="" data-position="25% 25%" />
+		<img src="{% link assets/images/mapasolectw.png %}" alt="" data-position="25% 25%"/>
 	</a>
 	<div class="content">
 		<div class="inner">
