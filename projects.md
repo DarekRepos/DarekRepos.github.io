@@ -9,8 +9,7 @@ nav-menu: true
 <!-- Main -->
 <div class="main 6u$ 12u$(medium)">
 
-<!-- six -->
-<section id="six" class="spotlights">
+<section class="spotlights">
 		<a href="https://github.com/DarekRepos/PanTadeuszWordFinder" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center"/>
 		</a>
@@ -29,8 +28,7 @@ nav-menu: true
 			</div>
 		</div>
 </section>
-<!-- One -->
-<section id="one">
+<section>
 	<div class="inner">
 		<header class="major">
 			<h2>Tribute website</h2>
@@ -45,9 +43,7 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
-
-<!-- Two -->
-<section id="two" class="spotlights">
+<section class="spotlights">
 	<section>
 		<a href="https://github.com/DarekRepos/koty-wysokosciowe" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center"/>
@@ -111,7 +107,6 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-<!-- Three -->
 <section>
 	<a href="https://erydanand3osob.gitlab.io/Auto-clicker-website/" class="aligncenter">
 		<img src="{% link assets/images/Clicker.png %}" alt="" data-position="center"/>
@@ -147,8 +142,7 @@ nav-menu: true
 		</div>
 	</div>
 </section>
-<!-- four -->
-<section id="four">
+<section>
 	<div class="inner">
 		<header class="major">
 			<h2>Static website for construction company</h2>
@@ -166,7 +160,6 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
-<!-- five -->
 <section>
 	<a href="https://darekrepos.github.io/mapasolectw/" class="image">
 		<img src="{% link assets/images/mapasolectw.png %}" alt="" data-position="25% 25%"/>
