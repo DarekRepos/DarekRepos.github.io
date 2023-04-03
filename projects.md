@@ -53,7 +53,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>spot heights (levels)</h3>
+					<h3>Spot heights (levels)</h3>
 				</header>
 				<p>Plugin for inserting a dynamic spot height in the AutoCAD program</p>
 				<ul class="actions">
