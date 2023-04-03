@@ -7,12 +7,11 @@ nav-menu: true
 ---
 
 <!-- Main -->
-<div class="main 6u$ 12u$(medium)">
+<div id="main">
 
-<!-- six -->
-<section id="six" class="spotlights">
+<section class="spotlights">
 		<a href="https://github.com/DarekRepos/PanTadeuszWordFinder" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center"/>
+			<img src="{% link assets/images/pic08.jpg %}" alt="cli app" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -29,8 +28,8 @@ nav-menu: true
 			</div>
 		</div>
 </section>
-<!-- One -->
-<section id="one">
+<section>
+	<div class="content">
 	<div class="inner">
 		<header class="major">
 			<h2>Tribute website</h2>
@@ -44,13 +43,12 @@ nav-menu: true
 			<li><a href="https://darekrepos.github.io/tribute-to-Ralph-Modejski/" class="button special">Learn more</a></li>
 		</ul>
 	</div>
+	</div>
 </section>
-
-<!-- Two -->
-<section id="two" class="spotlights">
+<section class="spotlights">
 	<section>
 		<a href="https://github.com/DarekRepos/koty-wysokosciowe" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center"/>
+			<img src="{% link assets/images/pic08.jpg %}" alt="koty app" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -69,7 +67,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://github.com/DarekRepos/myEvent" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center"/>
+			<img src="{% link assets/images/pic09.jpg %}" alt="myevent plugin" data-position="top center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -93,7 +91,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/opcje-ustawień-stylu.png %}" alt="" data-position="25% 25%"/>
+			<img src="{% link assets/images/opcje-ustawień-stylu.png%}" alt="plugin autocad" data-position="25% 25%"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -111,13 +109,12 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-<!-- Three -->
 <section>
 	<a href="https://erydanand3osob.gitlab.io/Auto-clicker-website/" class="aligncenter">
-		<img src="{% link assets/images/Clicker.png %}" alt="" data-position="center"/>
+		<img src="{% link assets/images/Clicker.png %}" alt="clicker pic" data-position="center"/>
 	</a>
 	<a href="https://erydanand3osob.gitlab.io/Auto-clicker-website/" class="aligncenter">
-		<img src="{% link assets/images/Clicker2.png %}" alt="" data-position="center"/>
+		<img src="{% link assets/images/Clicker2.png %}" alt="clicker" data-position="center"/>
 	</a>
 	<div class="content">
 		<div class="inner">
@@ -147,8 +144,8 @@ nav-menu: true
 		</div>
 	</div>
 </section>
-<!-- four -->
-<section id="four">
+<section>
+		<div class="content">
 	<div class="inner">
 		<header class="major">
 			<h2>Static website for construction company</h2>
@@ -165,11 +162,11 @@ nav-menu: true
 			<li><a href="https://erydanand3osob.gitlab.io/duda-dom.pl-website" class="button special">View website</a></li>
 		</ul>
 	</div>
+	</div>
 </section>
-<!-- five -->
 <section>
 	<a href="https://darekrepos.github.io/mapasolectw/" class="image">
-		<img src="{% link assets/images/mapasolectw.png %}" alt="" data-position="25% 25%"/>
+		<img src="{% link assets/images/mapasolectw.png %}" alt="mapa" data-position="25% 25%"/>
 	</a>
 	<div class="content">
 		<div class="inner">
@@ -179,7 +176,6 @@ nav-menu: true
 			<p>The Map with Geospatial data using QGIS application</p>
 			<ul class="actions">
 				<li><a href="#" class="button spaced">QGIS</a></li>
-
 			</ul>    
 			<ul class="actions">
 				<li><a href="https://darekrepos.github.io/mapasolectw/" class="button special">View website</a></li>
