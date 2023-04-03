@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 <!-- Main -->
-<div id="main 6u$ 12u$(medium)">
+<div class="main 6u$ 12u$(medium)">
 
 <!-- six -->
 <section id="six" class="spotlights">
