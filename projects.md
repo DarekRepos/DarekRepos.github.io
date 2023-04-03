@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 <!-- Main -->
-<div id="main">
+<div id="main 6u$ 12u$(medium)">
 
 <section class="spotlights">
 		<a href="https://github.com/DarekRepos/PanTadeuszWordFinder" class="image">
