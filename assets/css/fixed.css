@@ -12,3 +12,7 @@ a.aligncenter{
 .pipeline.status{
     border-bottom: none;
 }
+
+.full-high-image{
+  display: flex;
+}
