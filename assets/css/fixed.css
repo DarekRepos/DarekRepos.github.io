@@ -13,6 +13,6 @@ a.aligncenter{
     border-bottom: none;
 }
 
-.full-high-image{
+.spotlights > section > .image.full-high-image{
   display: flex;
 }
