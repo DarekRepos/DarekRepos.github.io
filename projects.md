@@ -11,7 +11,7 @@ nav-menu: true
 
 <section class="spotlights">
 	<section class="spotlights">
-			<a href="https://github.com/DarekRepos/PanTadeuszWordFinder" class="image">
+			<a href="https://github.com/DarekRepos/PanTadeuszWordFinder" class="image full-high-image">
 				<img src="{% link assets/images/pic08.jpg %}" alt="cli app" data-position="center center"/>
 			</a>
 			<div class="content">
@@ -47,7 +47,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="https://github.com/DarekRepos/koty-wysokosciowe" class="image">
+		<a href="https://github.com/DarekRepos/koty-wysokosciowe" class="image full-high-image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="koty app" data-position="center center"/>
 		</a>
 		<div class="content">
@@ -66,7 +66,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="https://github.com/DarekRepos/myEvent" class="image">
+		<a href="https://github.com/DarekRepos/myEvent" class="image full-high-image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="myevent plugin" data-position="top center"/>
 		</a>
 		<div class="content">
@@ -90,7 +90,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image">
+		<a href="#" class="image full-high-image">
 			<img src="{% link assets/images/opcje-ustawień-stylu.png%}" alt="plugin autocad" data-position="25% 25%"/>
 		</a>
 		<div class="content">
@@ -161,7 +161,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="https://darekrepos.github.io/mapasolectw/" class="image">
+		<a href="https://darekrepos.github.io/mapasolectw/" class="image full-high-image">
 			<img src="{% link assets/images/mapasolectw.png %}" alt="mapa" data-position="25% 25%"/>
 		</a>
 		<div class="content">
