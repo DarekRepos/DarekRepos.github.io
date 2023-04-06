@@ -23,6 +23,10 @@ jobs:
               cd $GITHUB_WORKSPACE
               python -m pip install --upgrade pip
               pip install anybadge
+          - name: Delete existing badges if exists
+            run: |
+              rm build.svg
+              rm commits.svg
           - name: Create commit badge
             run: |
               anybadge -l commits -v $(git log --oneline | wc -l) -f commits.svg -c green
