@@ -1,4 +1,4 @@
-name: 'coverage'
+name: 'badges'
 on:
   push:
     branches: [ "master" ]
@@ -25,7 +25,7 @@ jobs:
               pip install anybadge
           - name: Create commit badge
             run: |
-              anybadge -l commits -v $(git rev-list --all --count) -f commits.svg -c green
+              anybadge -l commits -v $(git log --oneline | wc -l) -f commits.svg -c green
           - name: Create made with LOVE badge
             run: |
               anybadge --overwrite --label="build with" --value="LOVE" --file=build.svg --color='#97CA00'
