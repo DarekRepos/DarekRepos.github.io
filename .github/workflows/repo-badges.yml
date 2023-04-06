@@ -1,0 +1,33 @@
+name: 'coverage'
+on:
+  push:
+    branches: [ "master" ]
+jobs:
+    coverage:
+        runs-on: ubuntu-latest
+        strategy:
+            fail-fast: false
+            matrix:
+              python-version: ["3.10.6"]
+        steps:
+          - uses: actions/checkout@v3
+          - name: Set up Python  ${{ matrix.python-version }}
+            uses: actions/setup-python@v4
+            with:
+              python-version:  ${{ matrix.python-version }}
+          - name: Install dependencies
+            run: |
+              cd $GITHUB_WORKSPACE
+              python -m pip install --upgrade pip
+              pip install anybadge
+          - name: Create commit badge
+            run: |
+              anybadge -l commits -v $(git rev-list --all --count) -f commits.svg -c green
+          - name: Create made with LOVE badge
+            run: |
+              anybadge --overwrite --label="build with" --value="LOVE" --file=build.svg --color='#97CA00'
+          - name: Commit badges to the repository
+            uses: stefanzweifel/git-auto-commit-action@v4
+            with:
+              commit_message: Added badges
+              file_pattern: '*.svg *.xml'
