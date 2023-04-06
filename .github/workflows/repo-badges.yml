@@ -29,8 +29,8 @@ jobs:
               rm commits.svg
           - name: Create commit badge
             run: |
-              $commits = $(git log --oneline | wc -l) + 1
-              anybadge -l commits -v $commits -f commits.svg -c green
+              $count = git log --oneline | wc -l
+              anybadge -l commits -v $($count+1) -f commits.svg -c green
           - name: Create made with LOVE badge
             run: |
               anybadge --overwrite --label="build with" --value="LOVE" --file=build.svg --color='#97CA00'
