@@ -29,7 +29,7 @@ jobs:
               rm commits.svg
           - name: Create commit badge
             run: |
-              anybadge -l commits -v $(($(git rev-list --all --count)-1)) -f commits.svg -c green
+              anybadge -l commits -v $(git rev-list --all --count) -f commits.svg -c green
           - name: Create made with LOVE badge
             run: |
               anybadge --overwrite --label="build with" --value="LOVE" --file=build.svg --color='#97CA00'
