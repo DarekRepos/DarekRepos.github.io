@@ -1,4 +1,7 @@
 # DarekRepos.github.io #
+[![pages-build-deployment](https://github.com/DarekRepos/DarekRepos.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/DarekRepos/DarekRepos.github.io/actions/workflows/pages/pages-build-deployment)
+[![Build](https://github.com/DarekRepos/DarekRepos.github.io/blob/master/build.svg)](https://github.com/DarekRepos/DarekRepos.github.io/blob/master/build.svg)
+[![Commits](https://github.com/DarekRepos/DarekRepos.github.io/blob/master/commits.svg)](https://github.com/DarekRepos/DarekRepos.github.io/blob/master/commits.svg)
 
 This is Website for my selected portfolio project
 
