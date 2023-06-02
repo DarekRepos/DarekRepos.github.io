@@ -98,7 +98,7 @@ nav-menu: true
 				<header class="major">
 					<h3>AutoCAD Civil 3D - Labels plugin</h3>
 				</header>
-				<p> My plugin  implements a command that allows you to insert labels in the profile in your drawing with attributes that you want from profile of the road. AutoCAD has four different APIs – .NET, LISP, ActiveX and ObjectARX (C++). This plugin uses .NET because it offers the most powerful and modern programming environment. This plugin uses AutoCAD .NET Application Programming Interface (API) and C# .NET programming language</p>
+				<p> My plugin  implements a command that allows you to insert labels in the profile on your drawing with attributes that you want from profile of the road. AutoCAD has four different APIs – .NET, LISP, ActiveX and ObjectARX (C++). This plugin uses .NET because it offers the most powerful and modern programming environment. This plugin uses AutoCAD .NET Application Programming Interface (API) and C# .NET programming language</p>
 				<ul class="actions">
 				<li><a href="#" class="button spaced">C#</a></li>
 				<li><a href="#" class="button spaced">.NET Framework</a></li>
@@ -118,7 +118,7 @@ nav-menu: true
 					<h3>Auto clicker</h3>
 				</header>
 				<h3>Windows Application</h3>
-				<p>Windows program that allow you to repeat the mouse click with selected interval. Set your mouse auto clicker interval and select single or double click on the left or right mouse buttons and your ready to let mouse clicker do the work for you. </p>
+				<p>Windows programs that allow you to repeat the mouse click at a selected interval Set your mouse auto-clicker interval and select single or double click on the left or right mouse buttons, and you're ready to let the mouse auto-clicker do the work for you. </p>
 				<ul class="actions">
 					<li><a href="#" class="button spaced">C#</a></li>
 					<li><a href="#" class="button spaced">Windows Forms</a></li>
@@ -128,7 +128,7 @@ nav-menu: true
 				<img alt="commits" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/commits.svg"/>		
 				<img alt="pipeline status" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/build.svg"/>					
 				<img alt="GitLab scoped" src="https://erydanand3osob.gitlab.io/Auto-clicker-website/assets/gitlab_scoped.svg"/>				
-					<p>More informations you can see on the Website. Website project uses Jekyll site using GitLab Pages. Website is automatically deployed using CI/CD pipeline</p>
+					<p>More information can be seen on the website. The website project uses a Jekyll site using GitLab Pages. The website is automatically deployed using the CI/CD pipeline.</p>
 					<ul class="actions">
 						<li><a href="#" class="button spaced">sass</a></li>
 						<li><a href="#" class="button spaced">jekyll</a></li>
@@ -148,7 +148,7 @@ nav-menu: true
 		<img alt="pipeline status" src="https://erydanand3osob.gitlab.io/duda-dom.pl-website/img/commits.svg"/>
 				<img alt="pipeline status" src="https://erydanand3osob.gitlab.io/duda-dom.pl-website/img/build.svg"/>			
 			</header>
-			<p>It's a static Website project with simple PHP form. E-mail from the form are sending using PHP. This website is automatically deployed using CI/CD pipeline</p>
+			<p>It's a static website project with a simple PHP form. E-mails from the form are sent using PHP. This website is automatically deployed using the CI/CD pipeline.</p>
 			<ul class="actions">
 				<li><a href="#" class="button spaced">HTML</a></li>
 				<li><a href="#" class="button spaced">CSS</a></li>
