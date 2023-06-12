@@ -7,7 +7,7 @@ plugins:
 title: Darek
 subtitle: PORTFOLIO
 email: email-me@darekduda.pl 
-emailurl: xjvdnbne
+emailcode: xjvdnbne  # email code for the formspree link
 description: A responsive site for portfolio
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
