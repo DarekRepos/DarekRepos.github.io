@@ -10,6 +10,47 @@ nav-menu: true
 <div id="main 6u$ 12u$(medium)">
 
 <section class="spotlights">
+	<section>
+		<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h2>Quiz Project</h2>
+			</header>
+			<p> This is short quiz app. Do you know Everything about roads? Created for fun. Based on the latest road innovations.</p>
+			<ul class="actions">
+				<li><a href="#" class="button spaced">HTML</a></li>
+				<li><a href="#" class="button spaced">CSS</a></li>
+					<li><a href="#" class="button spaced">Python</a></li>
+				<li><a href="#" class="button spaced">Flask</a></li>
+			</ul>
+			<ul class="actions">
+				<li><a href="https://github.com/DarekRepos/quiz-roads" class="button special">Learn more</a></li>
+			</ul>
+		</div>
+		</div>
+	</section>
+<section>
+		<a href="https://github.com/DarekRepos/recipes" class="image full-high-image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="old recipes" data-position="top center"/>
+		</a> 
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Taste of Borderlands</h3>
+				</header>
+				<p>Old recipes website for regionally meals. The goal of the website is to promote forgotten regional meals from polish region.</p>
+				<ul class="actions">
+				<li><a href="#" class="button spaced">CSS</a></li>
+				<li><a href="#" class="button spaced">HTML</a></li>
+				<li><a href="#" class="button spaced">Javascript</a></li>
+				<li><a href="#" class="button spaced">Bootstrap</a></li>
+				</ul>    
+				<ul class="actions">
+					<li><a href="https://github.com/DarekRepos/recipes" class="button special">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section class="spotlights">
 			<a href="https://github.com/DarekRepos/PanTadeuszWordFinder" class="image full-high-image">
 				<img src="{% link assets/images/pic08.jpg %}" alt="cli app" data-position="center center"/>
