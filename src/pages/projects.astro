@@ -24,7 +24,7 @@ const pythonProjects = allProjects.filter(p => p.data.tags.includes("Python"));
   
   <div class="project-list">
     {/* Change 'featuredProjects' to 'manualSelection' or 'pythonProjects' as needed */}
-    {featuredProjects.map((project, index) => (
+    {allProjects.map((project, index) => (
       <ProjectCard project={project} index={index}/>
     ))}
   </div>
