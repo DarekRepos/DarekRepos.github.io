@@ -1,0 +1,28 @@
+---
+import Head from "../components/Head.astro";
+import Wrapper from "../components/Wrapper.astro";
+import Footer from "../components/Footer.astro";
+import { site } from "../data/site";
+import mainUrl from "../scripts/main.ts?url";
+const pageTitle = Astro.props.title;
+const base = import.meta.env.BASE_URL;
+---
+
+<html lang="en">
+  <head>
+    <Head pageTitle={pageTitle} siteTitle={site.title} />
+  </head>
+  <body>
+    <Wrapper layout="home" />
+    <div id="main">
+      <slot />
+    </div>
+
+    <Footer
+      title={site.title}
+      subtitle={site.subtitle}
+      socials={site.socials}
+    />
+    <script type="module" src={mainUrl}></script>
+  </body>
+</html>
