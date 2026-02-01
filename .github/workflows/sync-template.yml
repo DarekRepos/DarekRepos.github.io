@@ -24,4 +24,4 @@ jobs:
           # Replace with the template repo (e.g., 'username/repo')
           template_repo_path: DarekRepos/forty-astro-theme
           # This is the branch in your repo to receive updates
-          target_branch: main
+          target_branch: master
